@@ -1,0 +1,5 @@
+c Fabian Wenzelmann 2017
+c CNF example in DIMACS format
+p cnf 3 2
+1 0
+-2 3 0
